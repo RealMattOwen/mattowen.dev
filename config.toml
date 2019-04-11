@@ -1,0 +1,4 @@
+baseURL = "https://mattowen.dev"
+languageCode = "en-us"
+title = "mattowen.dev"
+theme = "hermit"
